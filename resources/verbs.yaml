@@ -1,0 +1,42 @@
+hacer:
+  present:
+    1s: hago
+    2s: haces
+    3s: hace
+    1p: hacemos
+    2p: hacéis
+    3p: hacen
+  preterite:
+    1s: hice
+    2s: hiciste
+    3s: hizo
+    1p: hicimos
+    2p: hicisteis
+    3p: hicieron
+  future:
+    1s: haré
+    2s: harás
+    3s: hará
+    1p: haremos
+    2p: haréis
+    3p: harán
+  present_subjunctive:
+    1s: haga
+    2s: hagas
+    3s: haga
+    1p: hagamos
+    2p: hagáis
+    3p: hagan
+  imperfect:
+    1s: hacía
+    2s: hacías
+    3s: hacía
+    1p: hacíamos
+    2p: hacíais
+    3p: hacían
+  conditional:
+  imperative:
+  past_participle:
+  gerund:
+  
+  
