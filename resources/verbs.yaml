@@ -35,8 +35,16 @@ hacer:
     2p: hacíais
     3p: hacían
   conditional:
-  imperative:
-  past_participle:
-  gerund:
+    1s:
+    2s:
+    3s:
+    1p:
+    2p:
+    3p:
+  imperative: 
+    - haz
+    - haced
+  past_participle: hecho
+  gerund: haciendo
   
   
